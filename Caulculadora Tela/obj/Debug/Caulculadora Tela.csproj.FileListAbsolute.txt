@@ -1,0 +1,11 @@
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\bin\Debug\Caulculadora Tela.exe.config
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\bin\Debug\Caulculadora Tela.exe
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\bin\Debug\Caulculadora Tela.pdb
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora Tela.csproj.AssemblyReference.cache
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora Tela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora_Tela.Form1.resources
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora_Tela.Properties.Resources.resources
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora Tela.csproj.GenerateResource.cache
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora Tela.csproj.CoreCompileInputs.cache
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora Tela.exe
+C:\Users\Felipe.psantos48\source\repos\Caulculadora Tela\Caulculadora Tela\obj\Debug\Caulculadora Tela.pdb
